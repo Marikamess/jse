@@ -12,7 +12,7 @@ import java.lang.Math; // not required
  */
 public class Simple {
     public static void main(String[] args) {
-        // a comment
+        // a comment first comment
         System.out.println(Math.PI);
     }
 }
